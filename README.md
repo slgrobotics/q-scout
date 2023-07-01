@@ -23,7 +23,9 @@ https://www.robobloq.com/  -- main site, see "downloads" for MyQode for PC
 
 https://ide.robobloq.com/   -- a taste of Scratch programming online
 
-https://www.yuque.com/robobloq/metalrobot_en  -- original "Metal Robot" info
+https://www.robobloq.com/support  -- Wiki (links to video tutorials there)
+
+https://www.yuque.com/robobloq/metalrobot_en  -- original "Metal Robot" info, useful - but mostly 2018 version
 
 https://www.google.com/search?q=robobloq+q-scout   -- search
 
