@@ -1,12 +1,12 @@
 # Robobloq Q-Scout Robot under QmindX ESP32
 
-This is a collection of my notes and useful info related to this robot
+This is a collection of my notes and useful info related to Q-Scout and its QmindX controller.
 
 Previous 2018 versions of the controller - **Qmind** and **Qmind Plus** - were based on **Atmega 328 / 2560** ("Arduino UNO / Mega")
 
 There are many sources of information for these boards, including schematics (see Links).
 
-Current 2023 version - **QmindX** - is based on ESP32, and information is scarce.
+Current 2021 version - **QmindX** - is based on ESP32, and information is scarce.
 
 "If you want to know more about the product, pls reach us at **hello@robobloq.com**"  (2020 Amazon)   ;-)
 
@@ -36,7 +36,7 @@ https://github.com/Robobloq2018/Robobloq/issues/1
 https://github.com/Robobloq2018  - Arduino library, Wiki, schematics etc.
 
 
-### New 2023 Version QmindX:
+### New 2021 Version QmindX:
 
 https://www.google.com/search?q=robobloq+q-scout+qmindx   -- search for QmindX (ESP32)
 
