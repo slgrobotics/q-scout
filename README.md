@@ -10,8 +10,7 @@ Current 2021 version - **QmindX** - is based on ESP32, and information is scarce
 
 "If you want to know more about the product, pls reach us at **hello@robobloq.com**"  (2020 Amazon)   ;-)
 
-### Note:
-see **Q-scout-course-EN.pdf**  here:  https://github.com/slgrobotics/q-scout/tree/main/Docs
+#### Note: see **Q-scout-course-EN.pdf**  here:  https://github.com/slgrobotics/q-scout/tree/main/Docs
 
 Very good info here (use Chrome right click to translate): https://github.com/aretche/recursos-robobloq
 
@@ -19,7 +18,10 @@ Very good info here (use Chrome right click to translate): https://github.com/ar
 
 Some materials from these links can be found in my Docs folder here.
 
-https://www.robobloq.com/  -- main site, see "downloads" for MyQode for PC
+https://www.robobloq.com/  -- main site, **see "downloads" for MyQode for PC**
+
+#### Note: When MyQote is installed, lots of code is placed here: *C:\Program Files\MyQode\resources\remote\sources*
+
 
 https://ide.robobloq.com/   -- a taste of Scratch programming online
 
