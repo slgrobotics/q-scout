@@ -38,3 +38,6 @@ void loop() {
 }
 ```
 
+Now you can use **MyQode** as a reference, see how its *Scratch* blocks are translated into Arduino code, and reproduce that in a more powerful and flexible Arduino IDE - combining with anything else you like.
+
+### Happy coding!
