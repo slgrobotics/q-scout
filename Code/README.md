@@ -44,7 +44,8 @@ Now you can use **MyQode** as a reference, see how its *Scratch* blocks are tran
 
 #### Some Observations:
 
-1. There are four RJ45 ports on the sides of the controller. They combine I2C and ADC (analog input) wires. Four more ports are present, but connectors aren't soldered.
+1. There are four RJ45 ports on the sides of the controller. They combine I2C and ADC (analog input) wires. Four more ports are present, but connectors aren't soldered. See Docs folder, Photos.md for details.
 2. Port numbers are marked on the plastic case. Port 1 is next to Reset button, port 4 is near USB connector.
 3. Due to very low pin count of ESP32, hardware designers had to use analog multiplexor chips - CM051B - to handle all ports. This complicates direct programming. You have to use library calls, or handle multiplexor yourself.
+4. When switching/connecting back to MyQode, you will see a message "Unofficial Firmware". Click "Factory Reset", and your Scratch programs will upload and work fine.
 
