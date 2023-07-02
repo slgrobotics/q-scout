@@ -51,3 +51,7 @@ https://www.google.com/search?q=Qoopers&oq=Qoopers  -- search
 ## My New QmindX Photos:
 
 https://github.com/slgrobotics/q-scout/tree/main/Docs/Photos.md
+
+## And here is Amazon review which I, unfortunately, have to agree with:
+
+<img width="521" alt="Screenshot 2023-07-01 220400" src="https://github.com/slgrobotics/q-scout/assets/16037285/9c8a47cd-e6f6-470b-aff1-831237d29e83">
