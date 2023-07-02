@@ -41,3 +41,10 @@ void loop() {
 Now you can use **MyQode** as a reference, see how its *Scratch* blocks are translated into Arduino code, and reproduce that in a more powerful and flexible Arduino IDE - combining with anything else you like.
 
 ### Happy coding!
+
+#### Some Observations:
+
+1. There are four RJ45 ports on the sides of the controller. They combine I2C and ADC (analog input) wires. Four more ports are present, but connectors aren't soldered.
+2. Port numbers are marked on the plastic case. Port 1 is next to Reset button, port 4 is near USB connector.
+3. Due to very low pin count of ESP32, hardware designers had to use analog multiplexor chips - CM051B - to handle all ports. This complicates direct programming. You have to use library calls, or handle multiplexor yourself.
+
