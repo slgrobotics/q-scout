@@ -8,7 +8,7 @@ After installing **MyQode**, I found Arduino library code here: *C:\Program File
 
 I packed it in a zip file, creating a library (see current folder here).
 
-You can install this library in your *"libraries"* folder (usually found under *Sketchbook* folder), and the following code should compile and run.
+You can install this library in your *"libraries"* folder (usually found under *Sketchbook* folder), restart the IDE - and the following code should compile and run.
 
 Select **"ESP32 Dev Module"** as your device, and an appropriate COM port.
 
