@@ -1,16 +1,16 @@
 # Robobloq Q-Scout Robot under QmindX ESP32
 
-###This is how to program QmindX controller under Arduino IDE 2.1.1. (Windows Store version)
+### This is how to program QmindX controller under Arduino IDE 2.1.1. (Windows Store version)
 
-This is ONLY fo the current 2021 version - **QmindX** - is based on ESP32.
+This is ONLY applicable to the current 2021 version - **QmindX** - which is based on ESP32.
 
-After installing **MyQode**, I found Arduino library code here: C:\Program Files\MyQode\resources\remote\sources\k2x
+After installing **MyQode**, I found Arduino library code here: *C:\Program Files\MyQode\resources\remote\sources\k2x*
 
-I packed in a zip file, creating a library (see current folder here).
+I packed it in a zip file, creating a library (see current folder here).
 
-You can install this library in your *"libraries"* folder, and the following code should compile and run.
+You can install this library in your *"libraries"* folder (usually found under *Sketchbook* folder), and the following code should compile and run.
 
-Select "ESP32 Dev Module" as your device, and appropriate COM port.
+Select **"ESP32 Dev Module"** as your device, and an appropriate COM port.
 
 ```
 #include "QM_QMINDX.h"
