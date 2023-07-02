@@ -11,3 +11,4 @@
 ### Pinout: motors/encoders and combined I2C (SCL/SDA) + ADC
 
 <img width="994" alt="interfaces" src="https://github.com/slgrobotics/q-scout/assets/16037285/e6e6da84-625f-4210-8c2d-6a15b407f8c5">
+![IMG_20230702_173708629](https://github.com/slgrobotics/q-scout/assets/16037285/7e5108f9-787a-46ec-841d-c5a0a8724b1f)
