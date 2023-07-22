@@ -50,7 +50,7 @@ Now you can use **MyQode** as a reference, see how its *Scratch* blocks are tran
 
 #### Some Observations:
 
-1. There are four RJ45 ports on the sides of the controller. They combine I2C and ADC (analog input) wires. Four more ports are present, but connectors aren't soldered. See Docs folder, Photos.md for details.
+1. There are four RJ45 ports on the sides of the controller (see [Photos](https://github.com/slgrobotics/q-scout/blob/main/Docs/Photos.md)). They combine I2C and ADC (analog input) wires. Four more ports are present, but connectors aren't soldered. See Docs folder, Photos.md for details.
 2. Port numbers are marked on the plastic case. Port 1 is next to Reset button, port 4 is near USB connector.
 3. Motor numbers are also marked on plastic, M1 is Left, M2 is Right.
 4. Only the motors require battery power, sensors are happy with USB supplied +5V 500 mA. Keep power switch off to save the battery.
