@@ -20,7 +20,8 @@ https://github.com/slgrobotics/q-scout/tree/main/Docs/Photos.md
 
 <img width="521" alt="Screenshot 2023-07-01 220400" src="https://github.com/slgrobotics/q-scout/assets/16037285/9c8a47cd-e6f6-470b-aff1-831237d29e83">
 
-Don't read me wrong - Q-Scout hardware is fantastic in quality, QmindX is very well designed, powerful and high quality product, and underlying firmware/library is very good.
+#### Don't get me wrong though -
+Q-Scout hardware is fantastic in quality, QmindX is very well designed, powerful and high quality product, and underlying firmware/library is actually very good.
 
 But the company, in my opinion, dropped the ball when it failed to deliver documentation for all the above, thus limiting average user's learning experience to a Scratch-programmed toy.
 
