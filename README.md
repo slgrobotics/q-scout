@@ -27,9 +27,9 @@ But the company, in my opinion, dropped the ball when it failed to deliver docum
 
 For a true educational robot, the Support site should have thorough documentation on how to use it outside of MyQode/Scratch "closed ecosystem", and how to program it with C++ and Python.
 
-## Coding in Arduino IDE
+## But, there is hope - Coding in C++ with Arduino IDE
 
-While there's complete lack of info on this from the official site, there is a simple trick that allows coding in Arduino IDE
+While there's complete lack of info on this from the official site, there is a simple trick that allows coding in Arduino IDE - the same as you would for Arduino UNO and alike.
 
 Here is how: https://github.com/slgrobotics/q-scout/blob/main/Code/README.md
 
